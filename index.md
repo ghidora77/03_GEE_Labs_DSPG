@@ -1,10 +1,10 @@
-Google Earth Engine Tutorials
+# Google Earth Engine Tutorials
 
 This code repository contains Jupyter Notebooks that are used as a framework for building real-world projects using Google Earth Engine using the Python API (with some examples using the JavaScript API). These labs are currently in use for the 'Data Science for Public Good' program taught at Virginia Tech in the summer of 2022 and will be incorporated into additional coursework for remote sensing students. Students are encouraged to work with their local environment, but these labs are run on Google Colab.
 
 For further questions, please email aocampos@vt.edu
 
-Table of Contents
+## Table of Contents
 
 Below, you will find the table of contents and a brief summary of each lab.
 
