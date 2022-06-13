@@ -10,7 +10,7 @@ Below, you will find the table of contents and a brief summary of each lab.
 
 Section 1 - Fundamentals
 
-[01](https://colab.research.google/github.com/ghidora77/03_GEE_Labs_DSPG/blob/main/01-Intro.ipynb) - Intro
+[01](https://colab.research.google.com/github/ghidora77/03_GEE_Labs_DSPG/blob/main/01-Intro.ipynb) - Intro
 
 02 - Getting started (libraries and authentication)
 
