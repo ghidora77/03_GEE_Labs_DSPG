@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+Google Earth Engine Tutorials
 
-You can use the [editor on GitHub](https://github.com/ghidora77/03_GEE_Labs_DSPG/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This code repository contains Jupyter Notebooks that are used as a framework for building real-world projects using Google Earth Engine using the Python API (with some examples using the JavaScript API). These labs are currently in use for the 'Data Science for Public Good' program taught at Virginia Tech in the summer of 2022 and will be incorporated into additional coursework for remote sensing students. Students are encouraged to work with their local environment, but these labs are run on Google Colab.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+For further questions, please email aocampos@vt.edu
 
-### Markdown
+Table of Contents
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Below, you will find the table of contents and a brief summary of each lab.
 
-```markdown
-Syntax highlighted code block
+Section 1 - Fundamentals
 
-# Header 1
-## Header 2
-### Header 3
+01 - Intro
 
-- Bulleted
-- List
+02 - Getting started (libraries and authentication)
 
-1. Numbered
-2. List
+03 - Introduction to Google Earth Engine (GEE)
 
-**Bold** and _Italic_ and `Code` text
+04 - Defining a digital image
 
-[Link](url) and ![Image](src)
-```
+05 - Resolution (spatial, temporal, spectral, radiometric)
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+06 - Visualization with GEE
 
-### Jekyll Themes
+07 - Building indices
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ghidora77/03_GEE_Labs_DSPG/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+08 - Transformations
 
-### Support or Contact
+09 - Vector Introduction (geopandas, converting to GEE Objects)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Z - Building a Local Environment
