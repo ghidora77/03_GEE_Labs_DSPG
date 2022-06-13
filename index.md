@@ -12,20 +12,20 @@ Section 1 - Fundamentals
 
 [01](https://colab.research.google.com/github/ghidora77/03_GEE_Labs_DSPG/blob/main/01-Intro.ipynb) - Intro
 
-02 - Getting started (libraries and authentication)
+[02](https://colab.research.google.com/github/ghidora77/03_GEE_Labs_DSPG/blob/main/02-GettingStarted.ipynb)- Getting started (libraries and authentication)
 
-03 - Introduction to Google Earth Engine (GEE)
+[03](https://colab.research.google.com/github/ghidora77/03_GEE_Labs_DSPG/blob/main/03-IntrotoGEE.ipynb) - Introduction to Google Earth Engine (GEE)
 
-04 - Defining a digital image
+[04](https://colab.research.google.com/github/ghidora77/03_GEE_Labs_DSPG/blob/main/04-DigitalImages.ipynb) - Defining a digital image
 
-05 - Resolution (spatial, temporal, spectral, radiometric)
+[05](https://colab.research.google.com/github/ghidora77/03_GEE_Labs_DSPG/blob/main/05-Resolution.ipynb) - Resolution (spatial, temporal, spectral, radiometric)
 
-06 - Visualization with GEE
+[06](https://colab.research.google.com/github/ghidora77/03_GEE_Labs_DSPG/blob/main/06-Visualization.ipynb) - Visualization with GEE
 
-07 - Building indices
+[07](https://colab.research.google.com/github/ghidora77/03_GEE_Labs_DSPG/blob/main/07-Indices.ipynb) - Building indices
 
-08 - Transformations
+[08](https://colab.research.google.com/github/ghidora77/03_GEE_Labs_DSPG/blob/main/08-Transformations.ipynb) - Transformations
 
-09 - Vector Introduction (geopandas, converting to GEE Objects)
+[09](https://colab.research.google.com/github/ghidora77/03_GEE_Labs_DSPG/blob/main/09-Vector.ipynb) - Vector Introduction (geopandas, converting to GEE Objects)
 
 Z - Building a Local Environment
