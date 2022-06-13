@@ -28,4 +28,4 @@ Section 1 - Fundamentals
 
 [09](https://colab.research.google.com/github/ghidora77/03_GEE_Labs_DSPG/blob/main/09-Vector.ipynb) - Vector Introduction (geopandas, converting to GEE Objects)
 
-Z - Building a Local Environment
+[Appendix](https://colab.research.google.com/github/ghidora77/03_GEE_Labs_DSPG/blob/main/Z_LocalEnvironment.ipynb) - Building a Local Environment
